@@ -8,7 +8,7 @@ python modulo5_contrastacion_datos.py
 -------
 
 
-Utilizar este comando para el modulo 5:
+Utilizar este comando para el modulo 7:
 
 ```
 python modulo7_programa_integrador.py
